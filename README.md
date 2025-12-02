@@ -81,32 +81,12 @@ We are committed to making outstanding contributions to both academia and the gr
 ### 🚧 Coming Soon
 
 - [ ] **Data Pipeline**
-  - OCR-based layer merging pipeline
-  - Dataset preprocessing scripts
-  - Quality filtering tools
 
 - [ ] **Test Dataset**
-  - Curated evaluation benchmarks
-  - Diverse domain coverage
-  - Annotation files and metadata
 
 - [ ] **Training Code**
-  - Three-stage training framework implementation
-  - PSFT training scripts
-  - RL-VRA training scripts
-  - RLAF training scripts
-  - Configuration files and hyperparameters
 
 - [ ] **Model Weights**
-  - Pre-trained model checkpoints
-  - Stage-wise model weights
-  - Inference scripts and examples
-
-- [ ] **Complete Documentation**
-  - Installation guide
-  - Training tutorial
-  - Inference examples
-  - API reference
 
 ---
 
