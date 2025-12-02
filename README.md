@@ -104,14 +104,6 @@ If you find PosterCopilot useful for your research, please consider citing:
 
 ---
 
-## 🔗 Links
-
-- **Project Page**: [Coming Soon]
-- **Paper**: [Coming Soon]
-- **Demo**: [Coming Soon]
-
----
-
 ## 📧 Contact
 
 For questions and collaborations, please contact:
