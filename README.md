@@ -66,9 +66,9 @@ Tianyu Lao<sup>2</sup> ·
 
 ---
 
-## 📋 Open Source Roadmap
+## 📋 To-Do List
 
-We are committed to making PosterCopilot accessible to the research community. Our open-source plan includes:
+We are committed to making outstanding contributions to both academia and the graphic design industry with PosterCopilot. Our open-source plan includes:
 
 ### ✅ Released
 - [x] Project page and documentation
@@ -131,6 +131,7 @@ If you find PosterCopilot useful for your research, please consider citing:
 ## 📧 Contact
 
 For questions and collaborations, please contact:
+- Jiazhe Wei: [jzw6545@gmail.com](mailto:jzw6545@gmail.com)
 - Chenyang Si: [chenyangsi@smail.nju.edu.cn](mailto:chenyangsi@smail.nju.edu.cn)
 
 ---
