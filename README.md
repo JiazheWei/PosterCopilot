@@ -16,7 +16,6 @@ Tianyu Lao<sup>2</sup>,
 
 <sup>\*</sup>Equal Contribution, <sup>†</sup>Corresponding Author
 
----
 
 [📄 Paper](#) | [🌐 Project Page](#) | [🎬 Demo Video](#)
 
@@ -27,6 +26,11 @@ Tianyu Lao<sup>2</sup>,
 ## 🌟 Highlights
 
 **PosterCopilot** is a cutting-edge framework that advances layout reasoning and controllable editing for professional graphic design using Large Multimodal Models (LMMs).
+
+<div align="center">
+  <img src="assets/teaser.png" alt="PosterCopilot Teaser" width="100%">
+</div>
+
 
 ### Core Features
 
