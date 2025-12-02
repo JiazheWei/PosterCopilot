@@ -108,6 +108,7 @@ If you find PosterCopilot useful for your research, please consider citing:
 
 For questions and collaborations, please contact:
 - Jiazhe Wei: [jzw6545@gmail.com](mailto:jzw6545@gmail.com)
+- Ken Li: [kiyotakali075@gmail.com](mailto:kiyotakali075@gmail.com)
 - Chenyang Si: [chenyangsi@smail.nju.edu.cn](mailto:chenyangsi@smail.nju.edu.cn)
 
 ---
