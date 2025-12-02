@@ -17,7 +17,7 @@ Tianyu Lao<sup>2</sup>,
 <sup>\*</sup>Equal Contribution, <sup>†</sup>Corresponding Author
 
 
-[📄 Paper](#) | [🌐 Project Page](https://postercopilot.github.io/) | [▶️ Video](#)
+[📄 Paper](#) | [🌐 Project Page](https://postercopilot.github.io/) | [▶️ Video](https://www.youtube.com/watch?v=yqFMzb5iVE8)
 
 </div>
 
