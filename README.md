@@ -1,8 +1,6 @@
-# PosterCopilot
-
 <div align="center">
 
-## Toward Layout Reasoning and Controllable Editing for Professional Graphic Design
+# PosterCopilot: Toward Layout Reasoning and Controllable Editing for Professional Graphic Design
 
 [Jiazhe Wei](https://jiazhewei.github.io/)<sup>1,*</sup>, 
 [Ken Li](https://kiyotakali.github.io/)<sup>1,*</sup>, 
