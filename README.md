@@ -2,8 +2,8 @@
 
 # PosterCopilot: Toward Layout Reasoning and Controllable Editing for Professional Graphic Design
 
-[Jiazhe Wei](https://jiazhewei.github.io/)<sup>1,*</sup>, 
-[Ken Li](https://kiyotakali.github.io/)<sup>1,*</sup>, 
+[Jiazhe Wei](https://jiazhewei.github.io/)<sup>1,\*</sup>, 
+[Ken Li](https://kiyotakali.github.io/)<sup>1,\*</sup>, 
 Tianyu Lao<sup>2</sup>, 
 [Haofan Wang](https://haofanwang.github.io/)<sup>2</sup>, 
 [Liang Wang](https://scholar.google.com/citations?user=8kzzUboAAAAJ&hl=en)<sup>1,3</sup>, 
@@ -14,7 +14,7 @@ Tianyu Lao<sup>2</sup>,
 <sup>2</sup>[LibLib.ai](https://www.lovart.ai/zh), 
 <sup>3</sup>[Institute of Automation, Chinese Academy of Sciences](http://www.cripac.ia.ac.cn/CN/model/index.htm)
 
-<sup>*</sup>Equal Contribution, <sup>†</sup>Corresponding Author
+<sup>\*</sup>Equal Contribution, <sup>†</sup>Corresponding Author
 
 ---
 
@@ -57,6 +57,8 @@ Tianyu Lao<sup>2</sup>,
    Employs learned aesthetic rewards to generate coherent and diverse compositions
 
 ### PosterCopilot Dataset
+
+**One of the largest-scale, most thematically diverse, and highest-quality multi-layer poster datasets.**
 
 - **160K posters** with **2.6M layers** (1.2M text + 1.4M image/decorative elements)
 - Spans **40+ distinct domains** from commercial promotions to public announcements
