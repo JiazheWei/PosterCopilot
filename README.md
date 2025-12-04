@@ -36,7 +36,7 @@ Tianyu Lao<sup>2</sup>,
 </div>
 
 
-### Core Features
+### ✨ Core Features
 
 - **🎯 Geometrically Accurate Layouts**  
   Achieves precise spatial positioning through a progressive three-stage training strategy that moves beyond simple regression to distribution-based learning
@@ -53,7 +53,7 @@ Tianyu Lao<sup>2</sup>,
 - **🎭 Versatile Applications**  
   Handles complete layout generation, insufficient assets synthesis, theme switching, and canvas reframing
 
-### Three-Stage Training Paradigm
+### 📈 Three-Stage Training Paradigm
 
 1. **Perturbed Supervised Fine-Tuning (PSFT)**  
    Reformulates coordinate regression into distribution-based learning for continuous spatial reasoning
@@ -64,7 +64,7 @@ Tianyu Lao<sup>2</sup>,
 3. **Reinforcement Learning from Aesthetic Feedback (RLAF)**  
    Employs learned aesthetic rewards to generate coherent and diverse compositions
 
-### PosterCopilot Dataset
+### 📊 PosterCopilot Dataset
 
 **One of the largest-scale, most thematically diverse, and highest-quality multi-layer poster datasets.**
 
