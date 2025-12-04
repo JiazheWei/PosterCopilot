@@ -17,7 +17,7 @@ Tianyu Lao<sup>2</sup>,
 <sup>\*</sup>Equal Contribution, <sup>†</sup>Corresponding Author
 
 
-[📄 Paper](#) | [🌐 Project Page](https://postercopilot.github.io/) | [▶️ Video](https://www.youtube.com/watch?v=yqFMzb5iVE8) | [🤗 Model Weights](#) (Coming Soon) | [🤗 Datasets](#) (Coming Soon)
+[📄 Paper](https://arxiv.org/abs/2512.04082) | [🌐 Project Page](https://postercopilot.github.io/) | [▶️ Video](https://www.youtube.com/watch?v=yqFMzb5iVE8) | [🤗 Model Weights](#) (Coming Soon) | [🤗 Datasets](#) (Coming Soon)
 
 </div>
 
@@ -95,11 +95,14 @@ We are committed to making outstanding contributions to both academia and the gr
 If you find PosterCopilot useful for your research, please consider citing:
 
 ```bibtex
-@article{postercopilot2024,
-  title={PosterCopilot: Toward Layout Reasoning and Controllable Editing for Professional Graphic Design},
-  author={Wei, Jiazhe and Li, Ken and Lao, Tianyu and Wang, Haofan and Wang, Liang and Shan, Caifeng and Si, Chenyang},
-  year={2024}
-}
+@misc{wei2025postercopilot,
+        title={PosterCopilot: Toward Layout Reasoning and Controllable Editing for Professional Graphic Design}, 
+        author={Jiazhe Wei and Ken Li and Tianyu Lao and Haofan Wang and Liang Wang and Caifeng Shan and Chenyang Si},
+        year={2025},
+        eprint={2512.04082},
+        archivePrefix={arXiv},
+        primaryClass={cs.CV}
+  }
 ```
 
 ---
