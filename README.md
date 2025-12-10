@@ -85,11 +85,8 @@ We are committed to making outstanding contributions to both academia and the gr
 ### 🚧 Coming Soon
 
 - [ ] **Data Pipeline**
-
 - [ ] **Test Dataset**
-
 - [ ] **Training Code**
-
 - [ ] **Model Weights**
 
 ---
@@ -120,12 +117,11 @@ For questions and collaborations, please contact:
 
 ---
 
-## 📄 License
-
-This project is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
-
----
-
 ## 🙏 Acknowledgments
 
 We thank all contributors and the research community for their valuable feedback and support.
+
+
+<p align="center">
+  © 2025 PosterCopilot project. Released under the Apache 2.0 License.
+</p>
