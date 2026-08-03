@@ -18,7 +18,7 @@ Tianyu Lao2,
 
 [📄 Paper](https://arxiv.org/abs/2512.04082) | [🌐 Project Page](https://postercopilot.github.io/) | [▶️ Video](https://www.youtube.com/watch?v=yqFMzb5iVE8) | [💻 Code](https://github.com/JiazheWei/PosterCopilot) | [🤗 Model Weights](https://huggingface.co/void-2024/PosterCopilot)
 
-
+![PosterCopilot teaser](assets/teaser.png)
 
 ---
 
@@ -34,6 +34,38 @@ Tianyu Lao2,
 **PosterCopilot** is a cutting-edge framework that advances layout reasoning and controllable editing for professional graphic design using Large Multimodal Models (LMMs).
 
 
+
+---
+
+## ✨ Core Features
+
+- **🎯 Geometrically Accurate Layouts**  
+Achieves precise spatial positioning through a progressive three-stage training strategy that moves beyond simple regression to distribution-based learning
+- **🎨 Aesthetic Reasoning**  
+Instills human-like design principles and aesthetics through reinforcement learning from aesthetic feedback
+- **✂️ Layer-level Control**  
+Enables precise, fine-grained editing of individual layers while maintaining global visual consistency
+- **🔄 Multi-round Iterative Editing**  
+Supports professional iterative design workflows with multiple refinement rounds on specific elements
+- **🎭 Versatile Applications**  
+Handles complete layout generation, insufficient assets synthesis, theme switching, and canvas reframing
+
+### 📈 Three-Stage Training Paradigm
+
+1. **Perturbed Supervised Fine-Tuning (PSFT)**
+  Reformulates coordinate regression into distribution-based learning for continuous spatial reasoning
+2. **Reinforcement Learning for Visual-Reality Alignment (RL-VRA)**
+  Introduces geometric reward signals to ensure visual-reality alignment and spatial accuracy
+3. **Reinforcement Learning from Aesthetic Feedback (RLAF)**
+  Employs learned aesthetic rewards to generate coherent and diverse compositions
+
+### 📊 PosterCopilot Dataset
+
+**One of the largest-scale, most thematically diverse, and highest-quality multi-layer poster datasets.**
+
+- **160K posters** with **2.6M layers** (1.2M text + 1.4M image/decorative elements)
+- Spans **40+ distinct domains** from commercial promotions to public announcements
+- Novel OCR-based pipeline addresses over-segmentation challenges in multi-layer datasets
 
 ---
 
@@ -266,38 +298,6 @@ postercopilot/
 
 ---
 
-## ✨ Core Features
-
-- **🎯 Geometrically Accurate Layouts**  
-Achieves precise spatial positioning through a progressive three-stage training strategy that moves beyond simple regression to distribution-based learning
-- **🎨 Aesthetic Reasoning**  
-Instills human-like design principles and aesthetics through reinforcement learning from aesthetic feedback
-- **✂️ Layer-level Control**  
-Enables precise, fine-grained editing of individual layers while maintaining global visual consistency
-- **🔄 Multi-round Iterative Editing**  
-Supports professional iterative design workflows with multiple refinement rounds on specific elements
-- **🎭 Versatile Applications**  
-Handles complete layout generation, insufficient assets synthesis, theme switching, and canvas reframing
-
-### 📈 Three-Stage Training Paradigm
-
-1. **Perturbed Supervised Fine-Tuning (PSFT)**
-  Reformulates coordinate regression into distribution-based learning for continuous spatial reasoning
-2. **Reinforcement Learning for Visual-Reality Alignment (RL-VRA)**
-  Introduces geometric reward signals to ensure visual-reality alignment and spatial accuracy
-3. **Reinforcement Learning from Aesthetic Feedback (RLAF)**
-  Employs learned aesthetic rewards to generate coherent and diverse compositions
-
-### 📊 PosterCopilot Dataset
-
-**One of the largest-scale, most thematically diverse, and highest-quality multi-layer poster datasets.**
-
-- **160K posters** with **2.6M layers** (1.2M text + 1.4M image/decorative elements)
-- Spans **40+ distinct domains** from commercial promotions to public announcements
-- Novel OCR-based pipeline addresses over-segmentation challenges in multi-layer datasets
-
----
-
 ## 📝 Citation
 
 If you find PosterCopilot useful for your research, please consider citing:
@@ -325,6 +325,6 @@ For questions and collaborations, please contact:
 
 ## 🙏 Acknowledgments
 
-We thank all contributors and the research community for their valuable feedback and support.
+We thank all contributors for their valuable feedback, and Lovart.ai for their heartwarming support throughout all the process. And special thanks for all researchers who have been following PosterCopilot since the demo was released. 
 
 © 2025 PosterCopilot project. Released under the Apache 2.0 License.
