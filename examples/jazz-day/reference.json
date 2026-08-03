@@ -1,0 +1,75 @@
+{
+  "canvas_size": {
+    "width": 800,
+    "height": 1600
+  },
+  "layers": [
+    {
+      "image_id": 4,
+      "category": "type",
+      "x": 75,
+      "y": 1046,
+      "w": 639,
+      "h": 184,
+      "order": 0
+    },
+    {
+      "image_id": 3,
+      "category": "type",
+      "x": 120,
+      "y": 1272,
+      "w": 562,
+      "h": 114,
+      "order": 1
+    },
+    {
+      "image_id": 2,
+      "category": "type",
+      "x": 131,
+      "y": 1460,
+      "w": 527,
+      "h": 40,
+      "order": 2
+    },
+    {
+      "image_id": 1,
+      "category": "image",
+      "x": 0,
+      "y": 0,
+      "w": 800,
+      "h": 918,
+      "order": 3
+    },
+    {
+      "image_id": 0,
+      "category": "image",
+      "x": 0,
+      "y": 0,
+      "w": 800,
+      "h": 1600,
+      "order": 4
+    }
+  ],
+  "image_id": [
+    {
+      "id": 0,
+      "image": "0_image.png"
+    },
+    {
+      "id": 1,
+      "image": "1_image.png"
+    },
+    {
+      "id": 2,
+      "image": "2_type.png"
+    },
+    {
+      "id": 3,
+      "image": "3_type.png"
+    },
+    {
+      "id": 4,
+      "image": "4_type.png"
+    }
+  ]
+}

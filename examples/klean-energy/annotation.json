@@ -1,0 +1,321 @@
+{
+  "psd_file": "/opt/liblibai-models/dataset-images/freepik/freepik/Save Water Poster/23946938-gradient-renewable-energy-design-template/6868450.psd",
+  "ocr_file": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Save Water Poster-23946938-6868450/ocr/6868450_ocr.json",
+  "original_image": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Save Water Poster-23946938-6868450/6868450_original.png",
+  "canvas_size": {
+    "width": 1753,
+    "height": 2480
+  },
+  "layers": [
+    {
+      "src": "Place Your Logo Here (Double Click to Edit)",
+      "category": "smartobject",
+      "x": 658,
+      "y": 143,
+      "w": 438,
+      "h": 82,
+      "order": 0,
+      "blend_mode": "BlendMode.NORMAL",
+      "opacity": 255,
+      "text_info": {},
+      "group": [
+        [
+          "Logo",
+          "Place Your Logo Here (Double Click to Edit)"
+        ]
+      ],
+      "merged_layers_names": [
+        "Place Your Logo Here (Double Click to Edit)"
+      ],
+      "merged_layers_num": 1,
+      "merged_layers_indices": [
+        0
+      ],
+      "is_single_layer": true,
+      "files": {
+        "layer": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Save Water Poster-23946938-6868450/merged/6868450_5_merged.png"
+      }
+    },
+    {
+      "src": "Heading",
+      "category": "type",
+      "x": 330,
+      "y": 437,
+      "w": 1084,
+      "h": 289,
+      "order": 1,
+      "blend_mode": "BlendMode.NORMAL",
+      "opacity": 255,
+      "text_info": [
+        {
+          "text": "Klean energy\rfor the people.",
+          "text_type": "PARAGRAPH",
+          "font_size_px": 92.14,
+          "font_family": "'Archivo-ExtraBold'",
+          "color_css": "rgba(142, 222, 60, 1.0)",
+          "text_align": "center",
+          "leading": 0.96,
+          "warp": {
+            "warpStyle": "b'warpNone'",
+            "warpRotate": "b'Hrzn'",
+            "warpValue": 0.0,
+            "warpPerspective": 0.0,
+            "warpPerspectiveOther": 0.0
+          },
+          "font-weight": "normal",
+          "font-style": "normal",
+          "tracking": 0.0,
+          "transform": [
+            1.6686376970336299,
+            0.0,
+            0.0,
+            1.6685717348393694,
+            310.0707180271619,
+            437.9557051850825
+          ]
+        }
+      ],
+      "group": [
+        [
+          "Text",
+          "Heading"
+        ]
+      ],
+      "merged_layers_names": [
+        "Heading"
+      ],
+      "merged_layers_num": 1,
+      "merged_layers_indices": [
+        1
+      ],
+      "is_single_layer": true,
+      "files": {
+        "layer": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Save Water Poster-23946938-6868450/merged/6868450_4_merged.png"
+      },
+      "ocr_info": {
+        "bbox": [
+          321,
+          431,
+          1421,
+          731
+        ],
+        "category": "Section-header",
+        "text": "# Klean energy for the people."
+      }
+    },
+    {
+      "src": "Paragraph",
+      "category": "type",
+      "x": 381,
+      "y": 772,
+      "w": 973,
+      "h": 246,
+      "order": 2,
+      "blend_mode": "BlendMode.NORMAL",
+      "opacity": 255,
+      "text_info": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "text_type": "PARAGRAPH",
+          "font_size_px": 42.02,
+          "font_family": "'Chivo-Regular'",
+          "color_css": "rgba(255, 255, 255, 1.0)",
+          "text_align": "center",
+          "leading": 1.31,
+          "warp": {
+            "warpStyle": "b'warpNone'",
+            "warpRotate": "b'Hrzn'",
+            "warpValue": 0.0,
+            "warpPerspective": 0.0,
+            "warpPerspectiveOther": 0.0
+          },
+          "font-weight": "normal",
+          "font-style": "normal",
+          "tracking": 0.0,
+          "transform": [
+            0.9580773716250718,
+            0.0,
+            0.0,
+            0.9582985512145036,
+            375.9715168616656,
+            771.5507711832716
+          ]
+        }
+      ],
+      "group": [
+        [
+          "Text",
+          "Paragraph"
+        ]
+      ],
+      "merged_layers_names": [
+        "Paragraph"
+      ],
+      "merged_layers_num": 1,
+      "merged_layers_indices": [
+        2
+      ],
+      "is_single_layer": true,
+      "files": {
+        "layer": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Save Water Poster-23946938-6868450/merged/6868450_3_merged.png"
+      },
+      "ocr_info": {
+        "bbox": [
+          373,
+          764,
+          1359,
+          1022
+        ],
+        "category": "Text",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+      }
+    },
+    {
+      "src": "Website",
+      "category": "type",
+      "x": 534,
+      "y": 1200,
+      "w": 683,
+      "h": 41,
+      "order": 3,
+      "blend_mode": "BlendMode.NORMAL",
+      "opacity": 255,
+      "text_info": [
+        {
+          "text": "www.kleanenergyproject.com",
+          "text_type": "POINT",
+          "font_size_px": 50.95,
+          "font_family": "'Chivo-Black'",
+          "color_css": "rgba(255, 255, 255, 1.0)",
+          "text_align": "center",
+          "leading": 1.08,
+          "warp": {
+            "warpStyle": "b'warpNone'",
+            "warpRotate": "b'Hrzn'",
+            "warpValue": 0.0,
+            "warpPerspective": 0.0,
+            "warpPerspectiveOther": 0.0
+          },
+          "font-weight": "normal",
+          "font-style": "normal",
+          "tracking": 0.0,
+          "transform": [
+            0.8987644648411356,
+            0.0,
+            0.0,
+            0.9003319506657977,
+            876.4624171670795,
+            1232.9413072589252
+          ]
+        }
+      ],
+      "group": [
+        [
+          "Text",
+          "Website"
+        ]
+      ],
+      "merged_layers_names": [
+        "Website"
+      ],
+      "merged_layers_num": 1,
+      "merged_layers_indices": [
+        3
+      ],
+      "is_single_layer": true,
+      "files": {
+        "layer": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Save Water Poster-23946938-6868450/merged/6868450_2_merged.png"
+      },
+      "ocr_info": {
+        "bbox": [
+          531,
+          1194,
+          1220,
+          1245
+        ],
+        "category": "Text",
+        "text": "www.kleanenergyproject.com"
+      }
+    },
+    {
+      "src": "Shape",
+      "category": "shape",
+      "x": -8,
+      "y": 1389,
+      "w": 1785,
+      "h": 1230,
+      "order": 4,
+      "blend_mode": "BlendMode.NORMAL",
+      "opacity": 255,
+      "text_info": {},
+      "group": [
+        [
+          "Image",
+          "Shape"
+        ]
+      ],
+      "merged_layers_names": [
+        "Shape"
+      ],
+      "merged_layers_num": 1,
+      "merged_layers_indices": [
+        4
+      ],
+      "is_single_layer": true,
+      "files": {
+        "layer": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Save Water Poster-23946938-6868450/merged/6868450_1_merged.png"
+      },
+      "ocr_info": {
+        "bbox": [
+          0,
+          1389,
+          1753,
+          2480
+        ],
+        "category": "Picture"
+      }
+    },
+    {
+      "src": "Background Layer",
+      "category": "background",
+      "x": 0,
+      "y": 0,
+      "w": 1753,
+      "h": 2480,
+      "order": 5,
+      "blend_mode": "BlendMode.NORMAL",
+      "opacity": 255,
+      "text_info": {},
+      "group": [
+        [
+          "Design",
+          "Rectangle"
+        ],
+        [
+          "Background",
+          "Background"
+        ]
+      ],
+      "merged_layers_names": [
+        "Rectangle",
+        "Background"
+      ],
+      "merged_layers_num": 2,
+      "merged_layers_indices": [
+        5,
+        6
+      ],
+      "is_single_layer": false,
+      "files": {
+        "layer": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Save Water Poster-23946938-6868450/merged/6868450_0_merged.png"
+      }
+    }
+  ],
+  "statistics": {
+    "original_layers": 12,
+    "valid_layers": 7,
+    "merged_groups": 6,
+    "excluded_layers": 3,
+    "out_of_bounds_layers": 0
+  }
+}

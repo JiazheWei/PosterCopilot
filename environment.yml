@@ -1,0 +1,50 @@
+# conda env create -f environment.yml && conda activate postercopilot
+#
+# Every version below was run end to end against the released checkpoint:
+# inference on an H20, plus PNG and PSD rendering.  The transformers floor and
+# the CUDA note at the bottom matter; the rest is a known-good snapshot.
+#
+# For reference, the original research runs used a slightly older set inside an
+# NGC container: python 3.10.12, torch 2.3.0a0+40ec155e58.nv24.03 (CUDA 12.4),
+# transformers 4.57.0, qwen-vl-utils 0.0.14, accelerate 0.27.2, flash-attn
+# 2.4.2, psd-tools 1.10.13, pillow 11.3.0, numpy 1.24.4.  Both sets produce
+# working inference; the pins here are the ones reproducible from PyPI.
+
+name: postercopilot
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - pip:
+      # --- model runtime (infer.py) ---
+      # transformers 4.55 is the hard floor: the checkpoint's config.json uses
+      # the nested `text_config` / `layer_types` schema that older releases
+      # predate.  4.57.x is what the original inference runs used.
+      - torch==2.5.1
+      # qwen-vl-utils imports torchvision at module load, so it is a hard
+      # requirement even though nothing here calls it directly.  0.20.1 is the
+      # build that pairs with torch 2.5.1.
+      - torchvision==0.20.1
+      - transformers==4.57.3
+      - qwen-vl-utils==0.0.14
+      - accelerate==1.12.0
+
+      # --- shared ---
+      - pillow==12.0.0
+      - numpy==2.2.6
+
+      # --- rendering (render.py) ---
+      # Pillow alone covers PNG output.  psd-tools is only used by `--psd`, and
+      # pulls attrs / aggdraw / docopt in with it.
+      - psd-tools==1.17.4
+
+      # --- optional: flash_attention_2 ---
+      # Needs a compiler and an already-installed torch, so it cannot be
+      # resolved here.  Without it the predictor falls back to sdpa.
+      #   pip install flash-attn==2.7.4.post1 --no-build-isolation
+      #
+      # --- CUDA ---
+      # torch 2.5.1 from PyPI is a CUDA 12.4 build and works on any driver
+      # reporting CUDA >= 12.0.  Do not blindly upgrade: torch >= 2.13 bundles
+      # CUDA 13 and silently loses the GPU on drivers older than 580.

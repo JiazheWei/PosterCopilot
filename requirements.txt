@@ -1,0 +1,35 @@
+# pip alternative to environment.yml.  Python 3.10+.
+#
+# Ranges rather than the exact pins in environment.yml.  The floors are real;
+# see that file for the version snapshot that was validated end to end.
+
+# --- model runtime (infer.py) ---
+# transformers 4.55 is the hard floor: the checkpoint's config.json uses the
+# nested `text_config` / `layer_types` schema that older releases predate.
+# Validated on 4.55.4 and 4.57.3; the original research runs used 4.57.0.
+torch>=2.3
+# qwen-vl-utils imports torchvision at module load, so it is required even
+# though no code here calls it directly.  Match the build to your torch
+# (e.g. torchvision 0.20.1 for torch 2.5.1).
+torchvision
+transformers>=4.55,<5
+qwen-vl-utils>=0.0.11
+accelerate>=0.26
+
+# --- shared ---
+pillow>=10.0
+numpy>=1.24
+
+# --- rendering (render.py) ---
+# PNG output needs nothing but Pillow.  psd-tools is only used by the optional
+# `--psd` export; validated on both 1.10.13 and 1.17.4.
+psd-tools>=1.9
+
+# --- optional ---
+# Install after torch to get the flash_attention_2 kernel; without it the
+# predictor falls back to sdpa automatically.
+#   pip install flash-attn --no-build-isolation
+#
+# CUDA: torch wheels from 2.13 onwards bundle CUDA 13, which needs an NVIDIA
+# driver >= 580.  On an older driver install a CUDA 12 build instead, e.g.
+#   pip install torch==2.5.1 --index-url https://download.pytorch.org/whl/cu124
