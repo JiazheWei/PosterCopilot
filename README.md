@@ -1,5 +1,7 @@
 
 
+<div align="center">
+
 # PosterCopilot: Toward Layout Reasoning and Controllable Editing for Professional Graphic Design
 
 [Jiazhe Wei](https://jiazhewei.github.io/)1,\*, 
@@ -19,6 +21,8 @@ Tianyu Lao2,
 [📄 Paper](https://arxiv.org/abs/2512.04082) | [🌐 Project Page](https://postercopilot.github.io/) | [▶️ Video](https://www.youtube.com/watch?v=yqFMzb5iVE8) | [💻 Code](https://github.com/JiazheWei/PosterCopilot) | [🤗 Model Weights](https://huggingface.co/void-2024/PosterCopilot)
 
 ![PosterCopilot teaser](assets/teaser.png)
+
+</div>
 
 ---
 
