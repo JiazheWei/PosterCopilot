@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Default output locations.  Deliberately not a blanket *.png ignore, so an
+# examples/ directory of layer assets can still be committed.
+/out/
+/layout.json
+/poster.png
+/poster.psd

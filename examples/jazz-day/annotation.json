@@ -1,0 +1,303 @@
+{
+  "psd_file": "/opt/liblibai-models/dataset-images/freepik/freepik/Concert Poster/152253539-jazz-day-template-design/10540499.psd",
+  "ocr_file": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Concert Poster-152253539-10540499/ocr/10540499_ocr.json",
+  "canvas_size": {
+    "width": 800,
+    "height": 1600
+  },
+  "layers": [
+    {
+      "src": "Title",
+      "category": "type",
+      "x": 75,
+      "y": 1046,
+      "w": 639,
+      "h": 184,
+      "order": 0,
+      "blend_mode": "BlendMode.NORMAL",
+      "opacity": 255,
+      "text_info": [
+        {
+          "text": "Learn Jazz with\rthe experts",
+          "text_type": "POINT",
+          "font_size_px": 83.33,
+          "font_family": "'Poppins-Medium'",
+          "color_css": "rgba(99, 38, 91, 1.0)",
+          "text_align": "center",
+          "leading": 1.06,
+          "warp": {
+            "warpStyle": "b'warpNone'",
+            "warpRotate": "b'Hrzn'",
+            "warpValue": 0.0,
+            "warpPerspective": 0.0,
+            "warpPerspectiveOther": 0.0
+          },
+          "font-weight": "normal",
+          "font-style": "normal",
+          "tracking": -10.0,
+          "transform": [
+            1.0485315823592614,
+            0.0,
+            0.0,
+            1.0485315823592625,
+            394.7480931210697,
+            1114.0843285172114
+          ]
+        }
+      ],
+      "group": [
+        [
+          "Text",
+          "Title"
+        ]
+      ],
+      "merged_layers_names": [
+        "Title"
+      ],
+      "merged_layers_num": 1,
+      "merged_layers_indices": [
+        1
+      ],
+      "is_single_layer": true,
+      "files": {
+        "layer": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Concert Poster-152253539-10540499/merged/10540499_4_merged.png"
+      },
+      "ocr_info": {
+        "bbox": [
+          64,
+          1039,
+          721,
+          1234
+        ],
+        "category": "Text",
+        "text": "Learn Jazz with\nthe experts"
+      }
+    },
+    {
+      "src": "Subtitle",
+      "category": "type",
+      "x": 120,
+      "y": 1272,
+      "w": 562,
+      "h": 114,
+      "order": 1,
+      "blend_mode": "BlendMode.NORMAL",
+      "opacity": 255,
+      "text_info": [
+        {
+          "text": "The best teachers in the country are ready to teach you more about Jazz.",
+          "text_type": "PARAGRAPH",
+          "font_size_px": 20.83,
+          "font_family": "'Poppins-Medium'",
+          "color_css": "rgba(99, 38, 91, 1.0)",
+          "text_align": "center",
+          "leading": 1.2,
+          "warp": {
+            "warpStyle": "b'warpNone'",
+            "warpRotate": "b'Hrzn'",
+            "warpValue": 0.0,
+            "warpPerspective": 0.0,
+            "warpPerspectiveOther": 0.0
+          },
+          "font-weight": "normal",
+          "font-style": "normal",
+          "tracking": -10.0,
+          "transform": [
+            1.7009305450743477,
+            0.0,
+            0.0,
+            1.7009305450743482,
+            112.22418033830233,
+            1273.4351652795658
+          ]
+        }
+      ],
+      "group": [
+        [
+          "Text",
+          "Subtitle"
+        ]
+      ],
+      "merged_layers_names": [
+        "Subtitle"
+      ],
+      "merged_layers_num": 1,
+      "merged_layers_indices": [
+        2
+      ],
+      "is_single_layer": true,
+      "files": {
+        "layer": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Concert Poster-152253539-10540499/merged/10540499_3_merged.png"
+      },
+      "ocr_info": {
+        "bbox": [
+          114,
+          1265,
+          684,
+          1393
+        ],
+        "category": "Text",
+        "text": "The best teachers in the country\nare ready to teach you more\nabout Jazz."
+      }
+    },
+    {
+      "src": "Website",
+      "category": "type",
+      "x": 131,
+      "y": 1460,
+      "w": 527,
+      "h": 40,
+      "order": 2,
+      "blend_mode": "BlendMode.NORMAL",
+      "opacity": 255,
+      "text_info": [
+        {
+          "text": "Sign up at www.jazzday.com",
+          "text_type": "POINT",
+          "font_size_px": 83.33,
+          "font_family": "'Poppins-Bold'",
+          "color_css": "rgba(198, 14, 127, 1.0)",
+          "text_align": "center",
+          "leading": 1.21,
+          "warp": {
+            "warpStyle": "b'warpNone'",
+            "warpRotate": "b'Hrzn'",
+            "warpValue": 0.0,
+            "warpPerspective": 0.0,
+            "warpPerspectiveOther": 0.0
+          },
+          "font-weight": "normal",
+          "font-style": "normal",
+          "tracking": -10.0,
+          "transform": [
+            0.43859293396712035,
+            0.0,
+            0.0,
+            0.4385929339671176,
+            395.07581754114756,
+            1489.629795956525
+          ]
+        }
+      ],
+      "group": [
+        [
+          "Text",
+          "Website"
+        ]
+      ],
+      "merged_layers_names": [
+        "Website"
+      ],
+      "merged_layers_num": 1,
+      "merged_layers_indices": [
+        3
+      ],
+      "is_single_layer": true,
+      "files": {
+        "layer": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Concert Poster-152253539-10540499/merged/10540499_2_merged.png"
+      },
+      "ocr_info": {
+        "bbox": [
+          126,
+          1453,
+          662,
+          1503
+        ],
+        "category": "Text",
+        "text": "Sign up at www.jazzday.com"
+      }
+    },
+    {
+      "src": "Composite Layer of 4: Logo+Vector +Vector ...+1 more",
+      "category": "smartobject",
+      "x": 0,
+      "y": 0,
+      "w": 800,
+      "h": 918,
+      "order": 3,
+      "blend_mode": "BlendMode.NORMAL",
+      "opacity": 255,
+      "text_info": {},
+      "group": [
+        [
+          "Logo",
+          "Logo"
+        ],
+        [
+          "Design",
+          "Vector "
+        ],
+        [
+          "Design",
+          "Vector "
+        ],
+        [
+          "Design",
+          "Vector "
+        ]
+      ],
+      "merged_layers_names": [
+        "Logo",
+        "Vector ",
+        "Vector ",
+        "Vector "
+      ],
+      "merged_layers_num": 4,
+      "merged_layers_indices": [
+        0,
+        4,
+        5,
+        6
+      ],
+      "is_single_layer": false,
+      "files": {
+        "layer": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Concert Poster-152253539-10540499/merged/10540499_1_merged.png"
+      },
+      "ocr_info": {
+        "bbox": [
+          0,
+          0,
+          800,
+          926
+        ],
+        "category": "Picture"
+      }
+    },
+    {
+      "src": "Background",
+      "category": "background",
+      "x": 0,
+      "y": 0,
+      "w": 800,
+      "h": 1600,
+      "order": 4,
+      "blend_mode": "BlendMode.NORMAL",
+      "opacity": 255,
+      "text_info": {},
+      "group": [
+        [
+          "Background",
+          "Background"
+        ]
+      ],
+      "merged_layers_names": [
+        "Background"
+      ],
+      "merged_layers_num": 1,
+      "merged_layers_indices": [
+        7
+      ],
+      "is_single_layer": true,
+      "files": {
+        "layer": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Concert Poster-152253539-10540499/merged/10540499_0_merged.png"
+      }
+    }
+  ],
+  "statistics": {
+    "original_layers": 10,
+    "valid_layers": 8,
+    "merged_groups": 5,
+    "excluded_layers": 0,
+    "out_of_bounds_layers": 2
+  }
+}

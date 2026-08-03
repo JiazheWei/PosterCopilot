@@ -1,0 +1,589 @@
+{
+  "psd_file": "/opt/liblibai-models/dataset-images/freepik/freepik/Fundraiser Poster/135282789-women-s-day-celebration-poster-template/10326433.psd",
+  "ocr_file": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Fundraiser Poster-135282789-10326433/ocr/10326433_ocr.json",
+  "original_image": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Fundraiser Poster-135282789-10326433/10326433_original.png",
+  "canvas_size": {
+    "width": 2480,
+    "height": 3508
+  },
+  "layers": [
+    {
+      "src": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do",
+      "category": "type",
+      "x": 519,
+      "y": 2589,
+      "w": 1443,
+      "h": 192,
+      "order": 0,
+      "blend_mode": "BlendMode.NORMAL",
+      "opacity": 255,
+      "text_info": [
+        {
+          "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo vive",
+          "text_type": "PARAGRAPH",
+          "font_size_px": 52.11,
+          "font_family": "'Montserrat-Bold'",
+          "color_css": "rgba(127, 111, 105, 1.0)",
+          "text_align": "center",
+          "leading": 1.8,
+          "warp": {
+            "warpStyle": "b'warpNone'",
+            "warpRotate": "b'Hrzn'",
+            "warpValue": 0.0,
+            "warpPerspective": 0.0,
+            "warpPerspectiveOther": 0.0
+          },
+          "font-weight": "normal",
+          "font-style": "normal",
+          "tracking": 0.0,
+          "transform": [
+            0.7995744320201207,
+            0.0,
+            0.0,
+            0.7995744320201214,
+            509.20450369795674,
+            2591.1628341315245
+          ]
+        }
+      ],
+      "group": [
+        [
+          "Text",
+          "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do"
+        ]
+      ],
+      "merged_layers_names": [
+        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do"
+      ],
+      "merged_layers_num": 1,
+      "merged_layers_indices": [
+        0
+      ],
+      "is_single_layer": true,
+      "files": {
+        "layer": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Fundraiser Poster-135282789-10326433/merged/10326433_8_merged.png"
+      },
+      "ocr_info": {
+        "bbox": [
+          513,
+          2581,
+          1966,
+          2786
+        ],
+        "category": "Text",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo vive"
+      }
+    },
+    {
+      "src": "Your day is more than special",
+      "category": "type",
+      "x": 631,
+      "y": 2423,
+      "w": 1219,
+      "h": 49,
+      "order": 1,
+      "blend_mode": "BlendMode.NORMAL",
+      "opacity": 255,
+      "text_info": [
+        {
+          "text": "YOUR DAY IS MORE THAN SPECIAL",
+          "text_type": "POINT",
+          "font_size_px": 51.54,
+          "font_family": "'Montserrat-Bold'",
+          "color_css": "rgba(255, 235, 229, 1.0)",
+          "text_align": "center",
+          "leading": 1.2,
+          "warp": {
+            "warpStyle": "b'warpNone'",
+            "warpRotate": "b'Hrzn'",
+            "warpValue": 0.0,
+            "warpPerspective": 0.0,
+            "warpPerspectiveOther": 0.0
+          },
+          "font-weight": "normal",
+          "font-style": "normal",
+          "tracking": 0.0,
+          "transform": [
+            1.2941740831938233,
+            0.0,
+            0.0,
+            1.2941740831938318,
+            1241.1736014314238,
+            2470.8924007832647
+          ]
+        }
+      ],
+      "group": [
+        [
+          "Text",
+          "Your day is more than special"
+        ]
+      ],
+      "merged_layers_names": [
+        "Your day is more than special"
+      ],
+      "merged_layers_num": 1,
+      "merged_layers_indices": [
+        2
+      ],
+      "is_single_layer": true,
+      "files": {
+        "layer": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Fundraiser Poster-135282789-10326433/merged/10326433_7_merged.png"
+      },
+      "ocr_info": {
+        "bbox": [
+          623,
+          2410,
+          1857,
+          2482
+        ],
+        "category": "Text",
+        "text": "YOUR DAY IS MORE THAN SPECIAL"
+      }
+    },
+    {
+      "src": "Composite Layer of 2: everything+You can do",
+      "category": "type",
+      "x": 476,
+      "y": 1907,
+      "w": 1527,
+      "h": 338,
+      "order": 2,
+      "blend_mode": "BlendMode.NORMAL",
+      "opacity": 255,
+      "text_info": [
+        {
+          "text": "EVERYTHING",
+          "text_type": "POINT",
+          "font_size_px": 51.54,
+          "font_family": "'DelaGothicOne-Regular'",
+          "color_css": "rgba(223, 117, 87, 1.0)",
+          "text_align": "center",
+          "leading": 1.2,
+          "warp": {
+            "warpStyle": "b'warpNone'",
+            "warpRotate": "b'Hrzn'",
+            "warpValue": 0.0,
+            "warpPerspective": 0.0,
+            "warpPerspectiveOther": 0.0
+          },
+          "font-weight": "normal",
+          "font-style": "normal",
+          "tracking": 0.0,
+          "transform": [
+            3.428149718553427,
+            0.0,
+            0.0,
+            3.4281497185534295,
+            1239.3896422336463,
+            2243.4602964118835
+          ]
+        },
+        {
+          "text": "YOU CAN DO",
+          "text_type": "POINT",
+          "font_size_px": 51.54,
+          "font_family": "'DelaGothicOne-Regular'",
+          "color_css": "rgba(223, 117, 87, 1.0)",
+          "text_align": "center",
+          "leading": 1.2,
+          "warp": {
+            "warpStyle": "b'warpNone'",
+            "warpRotate": "b'Hrzn'",
+            "warpValue": 0.0,
+            "warpPerspective": 0.0,
+            "warpPerspectiveOther": 0.0
+          },
+          "font-weight": "normal",
+          "font-style": "normal",
+          "tracking": 0.0,
+          "transform": [
+            3.428149718553427,
+            0.0,
+            0.0,
+            3.4281497185534295,
+            1243.0629770734877,
+            2040.2808283987715
+          ]
+        }
+      ],
+      "group": [
+        [
+          "Text",
+          "everything"
+        ],
+        [
+          "Text",
+          "You can do"
+        ]
+      ],
+      "merged_layers_names": [
+        "everything",
+        "You can do"
+      ],
+      "merged_layers_num": 2,
+      "merged_layers_indices": [
+        1,
+        3
+      ],
+      "is_single_layer": false,
+      "files": {
+        "layer": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Fundraiser Poster-135282789-10326433/merged/10326433_6_merged.png"
+      },
+      "ocr_info": {
+        "bbox": [
+          466,
+          1899,
+          2013,
+          2253
+        ],
+        "category": "Text",
+        "text": "YOU CAN DO\nEVERYTHING"
+      }
+    },
+    {
+      "src": "yourwebsite.com",
+      "category": "type",
+      "x": 997,
+      "y": 3091,
+      "w": 487,
+      "h": 33,
+      "order": 3,
+      "blend_mode": "BlendMode.NORMAL",
+      "opacity": 255,
+      "text_info": [
+        {
+          "text": "YOURWEBSITE.COM",
+          "text_type": "POINT",
+          "font_size_px": 15.0,
+          "font_family": "'Montserrat-Black'",
+          "color_css": "rgba(115, 85, 163, 1.0)",
+          "text_align": "center",
+          "leading": 1.2,
+          "warp": {
+            "warpStyle": "b'warpNone'",
+            "warpRotate": "b'Hrzn'",
+            "warpValue": 0.0,
+            "warpPerspective": 0.0,
+            "warpPerspectiveOther": 0.0
+          },
+          "font-weight": "normal",
+          "font-style": "normal",
+          "tracking": 0.0,
+          "transform": [
+            2.998086753982358,
+            0.0,
+            0.0,
+            2.9980867539823683,
+            1243.2193642215184,
+            3123.287821890377
+          ]
+        }
+      ],
+      "group": [
+        [
+          "Text",
+          "yourwebsite.com"
+        ]
+      ],
+      "merged_layers_names": [
+        "yourwebsite.com"
+      ],
+      "merged_layers_num": 1,
+      "merged_layers_indices": [
+        4
+      ],
+      "is_single_layer": true,
+      "files": {
+        "layer": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Fundraiser Poster-135282789-10326433/merged/10326433_5_merged.png"
+      },
+      "ocr_info": {
+        "bbox": [
+          994,
+          3082,
+          1488,
+          3130
+        ],
+        "category": "Page-footer",
+        "text": "YOURWEBSITE.COM"
+      }
+    },
+    {
+      "src": "HAPPY WOMEN'S DAY",
+      "category": "type",
+      "x": 764,
+      "y": 1690,
+      "w": 952,
+      "h": 127,
+      "order": 4,
+      "blend_mode": "BlendMode.NORMAL",
+      "opacity": 255,
+      "text_info": [
+        {
+          "text": "HAPPY WOMEN'S DAY",
+          "text_type": "POINT",
+          "font_size_px": 15.0,
+          "font_family": "'Montserrat-Bold'",
+          "color_css": "rgba(115, 85, 163, 1.0)",
+          "text_align": "center",
+          "leading": 1.2,
+          "warp": {
+            "warpStyle": "b'warpArc'",
+            "warpRotate": "b'Hrzn'",
+            "warpValue": 20.0,
+            "warpPerspective": 0.0,
+            "warpPerspectiveOther": 0.0
+          },
+          "font-weight": "normal",
+          "font-style": "normal",
+          "tracking": 0.0,
+          "transform": [
+            5.143707617497911,
+            0.0,
+            0.0,
+            5.14370761749791,
+            1235.725807539759,
+            1822.05132596829
+          ]
+        }
+      ],
+      "group": [
+        [
+          "Text",
+          "HAPPY WOMEN'S DAY"
+        ]
+      ],
+      "merged_layers_names": [
+        "HAPPY WOMEN'S DAY"
+      ],
+      "merged_layers_num": 1,
+      "merged_layers_indices": [
+        5
+      ],
+      "is_single_layer": true,
+      "files": {
+        "layer": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Fundraiser Poster-135282789-10326433/merged/10326433_4_merged.png"
+      },
+      "ocr_info": {
+        "bbox": [
+          753,
+          1677,
+          1723,
+          1824
+        ],
+        "category": "Text",
+        "text": "HAPPY WOMEN'S DAY"
+      }
+    },
+    {
+      "src": "Composite Layer of 4: Instagram+Facebook+Twitter...+1 more",
+      "category": "smartobject",
+      "x": 1030,
+      "y": 148,
+      "w": 421,
+      "h": 72,
+      "order": 5,
+      "blend_mode": "BlendMode.NORMAL",
+      "opacity": 255,
+      "text_info": {},
+      "group": [
+        [
+          "Social Media",
+          "Instagram"
+        ],
+        [
+          "Social Media",
+          "Facebook"
+        ],
+        [
+          "Social Media",
+          "Twitter"
+        ],
+        [
+          "Social Media",
+          "WhatsApp"
+        ]
+      ],
+      "merged_layers_names": [
+        "Instagram",
+        "Facebook",
+        "Twitter",
+        "WhatsApp"
+      ],
+      "merged_layers_num": 4,
+      "merged_layers_indices": [
+        6,
+        7,
+        8,
+        9
+      ],
+      "is_single_layer": false,
+      "files": {
+        "layer": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Fundraiser Poster-135282789-10326433/merged/10326433_3_merged.png"
+      },
+      "ocr_info": {
+        "bbox": [
+          1023,
+          143,
+          1457,
+          227
+        ],
+        "category": "Picture"
+      }
+    },
+    {
+      "src": "Vector Smart Object",
+      "category": "smartobject",
+      "x": 483,
+      "y": 358,
+      "w": 1514,
+      "h": 1242,
+      "order": 6,
+      "blend_mode": "BlendMode.NORMAL",
+      "opacity": 255,
+      "text_info": {},
+      "group": [
+        [
+          "Design",
+          "Vector Smart Object"
+        ]
+      ],
+      "merged_layers_names": [
+        "Vector Smart Object"
+      ],
+      "merged_layers_num": 1,
+      "merged_layers_indices": [
+        10
+      ],
+      "is_single_layer": true,
+      "files": {
+        "layer": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Fundraiser Poster-135282789-10326433/merged/10326433_2_merged.png"
+      },
+      "ocr_info": {
+        "bbox": [
+          486,
+          350,
+          2003,
+          1586
+        ],
+        "category": "Picture"
+      }
+    },
+    {
+      "src": "Vector Smart Object",
+      "category": "smartobject",
+      "x": 1208,
+      "y": 2927,
+      "w": 66,
+      "h": 111,
+      "order": 7,
+      "blend_mode": "BlendMode.NORMAL",
+      "opacity": 255,
+      "text_info": {},
+      "group": [
+        [
+          "Design",
+          "Vector Smart Object"
+        ]
+      ],
+      "merged_layers_names": [
+        "Vector Smart Object"
+      ],
+      "merged_layers_num": 1,
+      "merged_layers_indices": [
+        11
+      ],
+      "is_single_layer": true,
+      "files": {
+        "layer": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Fundraiser Poster-135282789-10326433/merged/10326433_1_merged.png"
+      },
+      "ocr_info": {
+        "bbox": [
+          1203,
+          2922,
+          1278,
+          3040
+        ],
+        "category": "Picture"
+      }
+    },
+    {
+      "src": "Background Layer",
+      "category": "background",
+      "x": 0,
+      "y": 0,
+      "w": 2480,
+      "h": 3508,
+      "order": 8,
+      "blend_mode": "BlendMode.NORMAL",
+      "opacity": 255,
+      "text_info": {},
+      "group": [
+        [
+          "Design",
+          "Shape"
+        ],
+        [
+          "Design",
+          "Vector Smart Object"
+        ],
+        [
+          "Design",
+          "Vector Smart Object "
+        ],
+        [
+          "Design",
+          "Vector Smart Object"
+        ],
+        [
+          "Design",
+          "Vector Smart Object "
+        ],
+        [
+          "Design",
+          "Vector Smart Object"
+        ],
+        [
+          "Design",
+          "Shape"
+        ],
+        [
+          "Background",
+          "Color Fill 1"
+        ]
+      ],
+      "merged_layers_names": [
+        "Shape",
+        "Vector Smart Object",
+        "Vector Smart Object ",
+        "Vector Smart Object",
+        "Vector Smart Object ",
+        "Vector Smart Object",
+        "Shape",
+        "Color Fill 1"
+      ],
+      "merged_layers_num": 8,
+      "merged_layers_indices": [
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19
+      ],
+      "is_single_layer": false,
+      "files": {
+        "layer": "/opt/liblibai-models/user-workspace/laotianyu/psd-parsed-with-ocr/Fundraiser Poster-135282789-10326433/merged/10326433_0_merged.png"
+      }
+    }
+  ],
+  "statistics": {
+    "original_layers": 22,
+    "valid_layers": 20,
+    "merged_groups": 9,
+    "excluded_layers": 2,
+    "out_of_bounds_layers": 0
+  }
+}
